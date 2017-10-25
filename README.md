@@ -33,6 +33,6 @@
 
 ```
 实现如下效轮盘效果：
-![](iamges/yuanpan.png)
+![image](iamges/yuanpan.png)
 
 
