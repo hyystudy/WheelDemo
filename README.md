@@ -33,6 +33,5 @@
 
 ```
 实现如下效轮盘效果：
-![image](iamges/yuanpan.png)
-
+![image](https://github.com/hyystudy/WheelDemo/blob/master/iamges/yuanpan.png)
 
